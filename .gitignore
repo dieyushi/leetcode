@@ -11,3 +11,15 @@
 *.lai
 *.la
 *.a
+
+*/Debug/*
+*/Release/*
+*/bin/*
+*/obj/*
+*.suo
+*.opensdf
+*.sdf
+*.user
+*.exe
+*.ilk
+*.pdb
