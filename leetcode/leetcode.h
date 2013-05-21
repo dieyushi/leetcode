@@ -1,7 +1,6 @@
 #ifndef _LEETCODE_H_
 #define _LEETCODE_H_
 
-
 #include <vector>
 #include <string>
 
@@ -32,5 +31,8 @@ ListNode *removeNthFromEnd(ListNode *head, int n);
 bool isValidParentheses(std::string s);
 std::vector<std::string> generateParenthesis(int n);
 ListNode *mergeTwoLists(ListNode *l1, ListNode *l2);
+ListNode *swapNodesinPairs(ListNode *head);
+int removeDuplicates(int A[], int n);
+int removeElement(int A[], int n, int elem);
 
 #endif

@@ -97,10 +97,13 @@
     <ClCompile Include="mergeKLists.cpp" />
     <ClCompile Include="mergeTwoLists.cpp" />
     <ClCompile Include="ReMatching.cpp" />
+    <ClCompile Include="removeDuplicates.cpp" />
+    <ClCompile Include="removeElement.cpp" />
     <ClCompile Include="removeNthFromEnd.cpp" />
     <ClCompile Include="ReverseInteger.cpp" />
     <ClCompile Include="RomanToInt.cpp" />
     <ClCompile Include="StringToInterger.cpp" />
+    <ClCompile Include="swapNodesinPairs.cpp" />
     <ClCompile Include="ThreeSum.cpp" />
     <ClCompile Include="threeSumClosest.cpp" />
     <ClCompile Include="twoSum.cpp" />
